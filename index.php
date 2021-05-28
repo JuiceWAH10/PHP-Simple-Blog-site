@@ -3,6 +3,7 @@
 <head>
 
      <title>Jamora|Raymundo Blog</title>
+     <title>Edit</title>
 
      <meta charset="UTF-8">
      <meta http-equiv="X-UA-Compatible" content="IE=Edge">
